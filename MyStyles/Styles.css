@@ -1,0 +1,33 @@
+
+body {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    
+    color: rgb(255, 183, 0);
+}
+
+a {
+    color: chartreuse;
+}
+
+.Resume{ 
+    color: aqua;
+}
+
+
+.AbouttheCreatorbg{
+    background-image: url('../Jude\ Concert\ Pic.JPG');
+    background-position: top right;
+}
+
+.PhoneNumber{
+    color: fuchsia;
+    font-size: larger;
+}
+
+.youtubechannel{
+    font-size: larger;
+}
